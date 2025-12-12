@@ -1,0 +1,25 @@
+{
+  "severity": {
+    "high": 60,
+    "medium": 25,
+    "low": 0
+  },
+  "similarity_thresholds": {
+    "strong": 80,
+    "moderate": 60
+  },
+  "weights": {
+    "ip": 25,
+    "at_in_netloc": 30,
+    "many_subdomains": 15,
+    "suspicious_tld": 10,
+    "suspicious_keyword": 15,
+    "long_query": 8,
+    "domain_lookalike": 25,
+    "similarity_strong": 30,
+    "similarity_moderate": 15,
+    "dashed_subdomain": 10,
+    "subdomain_token": 12,
+    "at_in_path_or_query": 20
+  }
+}
