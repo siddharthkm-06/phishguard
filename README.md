@@ -26,6 +26,7 @@ It is designed for learners, security beginners, and anyone who wants to underst
 ---
 
 ## 📁 Project Structure
+```
 phishguard/
 │
 ├── core/
@@ -48,6 +49,7 @@ phishguard/
 │
 ├── phishguard.py
 └── requirements.txt
+```
 ---
 
 ##  Installation
