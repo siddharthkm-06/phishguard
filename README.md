@@ -33,7 +33,7 @@ phishguard/
 │ ├── rules.py
 │ ├── scorer.py
 │ ├── utils.py
-│ └── __init__.py
+│ └── init.py
 │
 ├── data/
 │ ├── whitelist.txt
@@ -47,9 +47,7 @@ phishguard/
 │ └── test_rules.py
 │
 ├── phishguard.py
-|── requirements.txt
-└── README.md
-
+└── requirements.txt
 ---
 
 ##  Installation
@@ -134,7 +132,6 @@ Risk Score: 45 (MEDIUM)
 Detected Issues:
  1. Contains phishing-like keyword(s): login, secure-login, reset, secure
  2. High similarity to brand 'paypal' (score 90.9)
-
 Summary:
   Several suspicious indicators detected. Exercise caution with this URL.
 ============================================================
