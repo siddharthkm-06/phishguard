@@ -1,4 +1,4 @@
-# core/scorer.py
+
 import json
 import os
 from typing import Dict, Any
