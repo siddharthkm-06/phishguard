@@ -1,4 +1,4 @@
-# tests/test_rules.py
+
 from core.parser import parse_url
 from core.scorer import score_url
 
