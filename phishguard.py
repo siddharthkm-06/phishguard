@@ -1,4 +1,4 @@
-# phishguard.py
+
 import argparse
 import os
 from core.parser import parse_url
