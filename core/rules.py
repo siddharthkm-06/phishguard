@@ -1,4 +1,4 @@
-# core/rules.py
+
 import re
 from typing import Tuple, List
 import os
